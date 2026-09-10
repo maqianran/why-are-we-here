@@ -14,3 +14,12 @@ In the 1960s, Frieder Nake and Georg Nees created computer-generated art and wer
 ## Conclusion
 I am here because I want to be the author, not just the operator. I am here because I want to know why the machine wrote that line, and whether it serves my purpose. Programming is not about typing faster than a machine; as Beattie argues, code is an expressive medium, not just a technical chore [5]. It is about thinking clearly enough to command it—and caring enough to verify it. That is what survives.
 ## References
+[1] M. Wagner. 2025. From Code Writers to Code Curators: A CEFR-Inspired Framework for Teaching Receptive Programming Skills in the Age of AI. In *ICERI2025 Proceedings*. IATED.
+
+[2] Claudio Mirolo and Cruz Izu. 2025. Asking Novices to Evaluate Code Quality: Understandability and Efficiency. In *Proceedings of the ACM Global Computing Education Conference 2025 – Volume 1 (CompEd 2025)*, October 21–25, 2025, Gaborone, Botswana. ACM, New York, NY. https://doi.org/10.1145/3736181.3747149
+
+[3] Ong Yew Chuan, et al. 2025. Integrating AI Literacy in Programming Education: Enhancing Object-Oriented Design and Problem-Solving Skills. In *2025 IEEE 14th International Conference on Engineering Education (ICEED)*. IEEE.
+
+[4] 香港星岛头条. 2026. AI能取代「手藝」嗎？技術美術教育再思考. Retrieved September 10, 2026 from https://www.stheadline.com/parenting-guide/3598540/
+
+[5] Dylan Beattie. 2020. The Art of Code [Video]. GOTO Conferences. Retrieved from https://www.youtube.com/watch?v=6avJHaC3C2U
