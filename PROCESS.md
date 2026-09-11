@@ -10,7 +10,7 @@
 - Brainstormed ideas with DeepSeek (25 minutes)
 - Outlined 5 main sections (20 minutes)
 - Wrote a draft by expanding each section (50 minutes)
-- Edited for clarity and word count (30 minutes)
+- Edited for clarity and word count (35 minutes)
 - Verified all citations against actual sources (40 minutes)
 
 I did not copy-paste entire paragraphs without rewriting; all final text is my own, shaped by the AI's suggestions but adjusted to reflect my own perspective.
